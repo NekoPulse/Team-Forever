@@ -1,0 +1,16 @@
+{
+  "name": "team-forever-api",
+  "version": "1.0.0",
+  "description": "API para publicar grupos en Team Forever",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "KaitoNeko",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
